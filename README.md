@@ -1,3 +1,5 @@
+![Banner do Projeto](banner.png)
+
 # 📊 Projeto de Machine Learning para Previsão de Churn - Beta Bank
 **Autora: Marcia Bayardino Weyne**  
 **Data: 2025**
